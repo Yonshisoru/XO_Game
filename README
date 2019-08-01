@@ -1,0 +1,49 @@
+XO Game
+Created by : Thanawat Chuensriwirot
+Student Number: 60160078
+
+How to play:
+1. Select box that you want to choose in this template (x,y)
+2. First player is X player always
+3. If you selected box like one of win condition, You win!!
+4. Turn of player is being like this >> X player -> O player -> X player -> O player -> ....
+5. If player selected all of box in area and no one win then it's draw
+6. When ended the game if you want to play again just type y
+6.1 if you type other command expect "y" and "n" it will instant end the process.
+7. Enjoy to play XO Game :)
+
+Win condition:
+
+x x x	เงื่อนไขการชนะที่ 1
+* * *	เรียงแถวแนวนอนแถวที่ 1 ให้ได้3ช่อง
+* * *
+
+* * *	เงื่อนไขการชนะที่ 2 
+x x x	เรียงแถวแนวนอนแถวที่ 2 ให้ได้3ช่อง
+* * *
+
+* * *	เงื่อนไขการชนะที่ 3 
+* * *	เรียงแถวแนวนอนแถวที่ 3 ให้ได้3ช่อง
+x x x
+
+x * *	เงื่อนไขการชนะที่ 4 
+x * *	เรียงแถวแนวตั้งแถวที่ 1 ให้ได้3ช่อง
+x * *
+
+* x *	เงื่อนไขการชนะที่ 5 
+* x *	เรียงแถวแนวตั้งแถวที่ 2 ให้ได้3ช่อง
+* x *
+
+* * x	เงื่อนไขการชนะที่ 6 
+* * x	เรียงแถวแนวตั้งแถวที่ 3 ให้ได้3ช่อง
+* * x
+
+x * *	เงื่อนไขการชนะที่ 7 
+* x *	เรียงแถวทะแยงจากทางซ้าย
+* * x
+
+* * x	เงื่อนไขการชนะที่ 8 
+* x *	เรียงแถวทะแยงจากทางขวา
+x * 
+
+
